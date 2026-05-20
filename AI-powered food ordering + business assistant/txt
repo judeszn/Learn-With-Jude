@@ -1,0 +1,26 @@
+Simple version:
+
+* customer opens link
+* sees food/products
+* chats with AI
+* places order
+* AI responds naturally
+* sends order to your sister
+* logs customer/order data
+
+That’s already valuable.
+
+
+Customer opens link
+↓
+Views food/products
+↓
+AI asks what they want
+↓
+Customer orders
+↓
+AI confirms
+↓
+Order saved to DB
+↓
+Sister notified
